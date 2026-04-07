@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/pfeiferj/tree-sitter-hurl",
-  "semver": false,
   "parser_version": "597efbd7ce9a814bb058f48eabd055b1d1e12145",
   "location": null,
-  "lang": "hurl"
+  "lang": "hurl",
+  "url": "https://github.com/pfeiferj/tree-sitter-hurl",
+  "semver": false
 }
